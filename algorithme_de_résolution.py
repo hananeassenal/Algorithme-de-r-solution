@@ -80,13 +80,12 @@ def test_resolution():
 test_resolution()
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
+
 
 
 
